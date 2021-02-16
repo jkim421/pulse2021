@@ -1,4 +1,4 @@
-# 💊 Search Pulse 💊
+# 💊 `Search Pulse` 💊
 
 - [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
 
@@ -21,7 +21,7 @@ Given a dataset and a frontend framework, complete the three tasks while followi
 
 ---
 
-## `💊 How to run this project on your local server to this Project?`
+## `💊 How to run this project on your local server to this Project? 💊`
 
 ```shell
 git clone https://github.com/mcherry000/pulse2021.git
@@ -34,7 +34,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## `💊 Tech Stack:`
+## `💊 Tech Stack: 💊`
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
 
@@ -63,7 +63,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## `💊 Exercises`
+## `💊 Exercises 💊`
 
 - Each exercise has corresponding comments to explain the "why" and "how" of Algorithms employed to solve the challenge.
 
@@ -83,7 +83,7 @@ For this exercise, employed React to render the influencers data. The page now c
 
 ``
 
-## 💊 On home screen you'll find a search bar and tabularised data underneath
+## 💊 On home screen you'll find a search bar and tabularised data underneath .💊
 
 ![Anonymous](public/screenOne.png)
 
@@ -93,7 +93,7 @@ For this exercise, employed React to render the influencers data. The page now c
 
 ``
 
-## 💊 You can search by word or a incomplete word. The App will display the closest match(es) to your search term all pre-sorted in a High to low priority fashion.
+## 💊 You can search by word or a incomplete word. The App will display the closest match(es) to your search term all pre-sorted in a High to low priority fashion. 💊
 
 ![Anonymous](public/screenThree.png)
 
@@ -103,13 +103,13 @@ For this exercise, employed React to render the influencers data. The page now c
 
 ``
 
-## 💊 You can also manually toggle the sort button to sort the columns of the table to your liking.
+## 💊 You can also manually toggle the sort button to sort the columns of the table to your preference. 💊
 
 ![Anonymous](public/screenFour.png)
 
 ## ``
 
-## 💊 What's missing?
+## 💊 What's missing? 💊
 
 A sort by priority button dedicated to sorting by priority data field.
 The funtion sortBy is yet to be wired. The accuracy of algorithm underneath is functional at the time of submission.
