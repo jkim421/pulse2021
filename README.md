@@ -87,13 +87,13 @@ Renders the influencers data. The page now consist of three parts -- a search ba
 
 ---
 
-## `💊 You can search by word or a incomplete word. The App will display the closest match(es) to your search term all pre-sorted in a High to low priority fashion...`
+## `💊 You can search by word (or an incomplete word). The App will display the closest match(es) pre-sorted in a High-to-Low priority algorithm...`
 
 ![Anonymous](public/screenThree.png)
 
 ---
 
-## `💊 You can also manually toggle the sort button to sort the columns of the table to your preference...`
+## `💊 You can also manually sort the columns of the table using toggle-button(s)...`
 
 ![Anonymous](public/screenFour.png)
 
@@ -101,8 +101,7 @@ Renders the influencers data. The page now consist of three parts -- a search ba
 
 ## `💊 What's missing? 💊`
 
-A sort by priority button dedicated to sorting by priority data field.
-The funtion sortBy is yet to be wired. The accuracy of algorithm underneath is functional at the time of submission.
+A sort-by-priority button. The funtion "sortBy" is yet to be wired to the frontEnd via hooks. The Algorithm underneath has been tested for accuracy and is functional at the time of submission.
 
 ---
 
