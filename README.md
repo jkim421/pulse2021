@@ -1,5 +1,3 @@
---- 
-
 # 💊 Search Pulse 💊
 
 - [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
