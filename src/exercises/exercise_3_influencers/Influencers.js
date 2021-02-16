@@ -21,7 +21,8 @@ const Influencers = () => {
   const [search, setSearch] = useState("");
   const uniqueData = uniqueBy(db, "member");
   const [data, setData] = useState(uniqueData);
-  const [click, setClick] = useState(0);
+  const [click, setClick] = useState(null);
+  const [location, setLocation] = useState(null);
   useEffect(() => {
     const filteredData = filterBy(uniqueData, search, [
       "indicationCategory",
@@ -33,10 +34,14 @@ const Influencers = () => {
       : setData(filteredData);
   }, [search]);
 
-  useEffect(() => {
-    const sortedData = SortBy(data);
-    setData(sortedData);
-  }, [click]);
+  // if (click === "prior") {
+  //   // console.log("DaTAA->", data);
+  //   const sortedData = SortBy(data);
+  //   // console.log("sortedData", sortedData);
+  //   console.log("prior", click);
+  //   setData(sortedData);
+  //   setClick(null);
+  // }
 
   const columns = React.useMemo(
     () => [
@@ -94,17 +99,18 @@ const Influencers = () => {
         data={data}
         setData={setData}
       />
-      <button
+      {/* <button
         style={{
           padding: ".5rem",
           border: "solid 3px green",
           fontWeight: "bold",
           margin: "1rem",
         }}
-        onSubmit={() => setClick(click + 1)}
+        onClick={() => setClick("prior")}
       >
         Sort by Priority
-      </button>
+      </button> */}
+
       {data.length && (
         <Table
           getTableProps={getTableProps}
