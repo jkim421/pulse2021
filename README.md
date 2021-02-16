@@ -65,19 +65,19 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ## `💊 Exercises 💊`
 
-- Each exercise has corresponding comments to explain the "why" and "how" of Algorithms employed to solve the challenge.
+- Each exercise has corresponding comments to explain the "why" and "how" of Algorithms.
 
 ### 01. `uniqueBy`
 
-For this exercise, you'll find function `uniqueBy` that ensures the uniqueness of an array of data objects for a given key.
+Ensures the uniqueness of an array of data objects for a given key.
 
 ### 02. `filterBy`
 
-For this exercise, you'll find function `filterBy` that filters an array of data objects by a given search term.
+Filters an array of data objects by a given search term.
 
 ### 03. `Influencers Display`
 
-For this exercise, employed React to render the influencers data. The page now consist of three parts -- a search bar, corresponding sort buttons for each column in table, and a display for influencers' data.
+Renders the influencers data. The page now consist of three parts -- a search bar, corresponding sort buttons for each column in table, and a display for influencers data.
 
 ---
 
