@@ -1,13 +1,6 @@
-## Submission
+--- 
 
-## 🎮 How to get started?
-
-- [🎮 To Use the app, click here 🎮](https://pulse-analytics-coding-challenge.netlify.app/)
-  <br/>
-
----
-
-# 🎮 Search Pulse 🎮
+# 💊 Search Pulse 💊
 
 - [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
 
@@ -20,7 +13,7 @@ Search Pulse is an assigned Frontend Coding challenge. This take home assignment
 
 ---
 
-## 🎮 Prompt🎮
+## 💊 Prompt 💊
 
 Give dataset and Frontend framework, solve the three challenges while following the following constraints :
 
@@ -30,7 +23,7 @@ Give dataset and Frontend framework, solve the three challenges while following 
 
 ---
 
-## 🎮 How to run this project on your local server to this Project?
+## 💊 How to run this project on your local server to this Project?
 
 ```shell
 git clone https://github.com/mcherry000/pulse2021.git
@@ -43,7 +36,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## 🎮 Tech Stack:
+## 💊 Tech Stack:
 
 ![Anonymous](public/logo.png)
 
@@ -77,7 +70,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## Exercises
+## 💊 Exercises
 
 - Each exercise has corresponding comments to explain the "why" and "how" of Algorithms employed to solve the challenge.
 
@@ -95,28 +88,35 @@ For this exercise, employed React to render the influencers data. The page now c
 
 ---
 
-## 🎮 On clicking, your screen will look like this:
+## 💊 On clicking, your screen will look like this:
 
 ![Anonymous](public/screenOne.png)
 
 ---
 
-## 🎮 Next, collect all stars to unlock next level..
+## 💊 Next, collect all stars to unlock next level..
 
 ![Anonymous](public/Three.png)
 
 ---
 
-## 🎮 Game is over as soon as you get hit by an evil ball.
+## 💊 Game is over as soon as you get hit by an evil ball.
 
 ![Anonymous](public/Four.png)
 
 ---
 
-## 🎮 What's missing?
+## 💊 What's missing?
 
 A sort by priority button dedicated to sorting by priority data field.
 The funtion sortBy is yet to be wired. The accuracy of algorithm underneath is functional at the time of submission.
+
+---
+
+## Submission
+
+- [💊 To Use the app, click here 💊 ](https://pulse-analytics-coding-challenge.netlify.app/)
+  <br/>
 
 ---
 
