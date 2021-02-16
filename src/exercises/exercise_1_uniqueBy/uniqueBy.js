@@ -4,7 +4,7 @@ export default function uniqueBy(data, inputkey) {
   for (let i = 0; i < data.length; i++) {
     let object = data[i];
     for (let key in object) {
-      // within each data object iterate only until you find the inputkey
+      // Now, within each data object iterate only until you find the inputkey
       if (key === inputkey) {
         if (!uniqueHash[object[key]]) {
           uniqueHash[object[key]] = true;
