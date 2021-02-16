@@ -7,13 +7,13 @@
 ## Preferred browser - Google Chrome
 
   <br/>
-Search Pulse is an assigned Frontend Coding challenge. This take home assignment has three distinct exercises that represent real-world problems engineers solve everyday at work.
+Search Pulse is an assigned Frontend Coding challenge. This take home assignment has three distinct exercises that represent real-world problems.
 
 ---
 
 ## 💊 Prompt 💊
 
-Give dataset and Frontend framework, solve the three challenges while following the following constraints :
+Given a dataset and a frontend framework, complete the three tasks while following the following constraints :
 
 - Use only JavaScript for this assignment.
 - Do not install additional packages.
@@ -36,8 +36,6 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ## 💊 Tech Stack:
 
-![Anonymous](public/logo.png)
-
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />][css]
@@ -48,15 +46,12 @@ and webpack will automatically recompile and reload your server (available at `h
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/canva.svg" />][canva]
-
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/npm.svg" />][npm]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />][node]
 
 [html]: http://www.w3.org/html/logo/
 [css]: http://www.w3.org/html/logo/
-[canva]: https://www.canva.com/
 [npm]: https://github.com/npm/logos
 [node]: https://nodejs.org/en/about/resources/
 [netlify]: https://www.netlify.com/press/
@@ -80,27 +75,27 @@ For this exercise, you'll find function `uniqueBy` that ensures the uniqueness o
 
 For this exercise, you'll find function `filterBy` that filters an array of data objects by a given search term.
 
-### 03. Influencers Display
+### 03. `Influencers Display`
 
 For this exercise, employed React to render the influencers data. The page now consist of three parts -- a search bar, corresponding sort buttons for each column in table, and a display for influencers' data.
 
 ---
 
-## 💊 On clicking, your screen will look like this:
+## 💊 On home screen you'll find a search bar and tabularised data underneath
 
 ![Anonymous](public/screenOne.png)
 
 ---
 
-## 💊 Next, collect all stars to unlock next level..
+## 💊 You can search by word or a incomplete word. The App will display the closest match(es) to your search term all pre-sorted in a High to low priority fashion.
 
-![Anonymous](public/Three.png)
+![Anonymous](public/screenThree.png)
 
 ---
 
-## 💊 Game is over as soon as you get hit by an evil ball.
+## 💊 You can also manually toggle the sort button to sort the columns of the table to your liking.
 
-![Anonymous](public/Four.png)
+![Anonymous](public/screenFour.png)
 
 ---
 
