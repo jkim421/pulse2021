@@ -4,14 +4,14 @@
 
 ---
 
-## Preferred browser - Google Chrome
+## `💊 Preferred browser - Google Chrome 💊`
 
   <br/>
 Search Pulse is an assigned Frontend Coding challenge. This take home assignment has three distinct exercises that represent real-world problems.
 
 ---
 
-## 💊 Prompt 💊
+## `💊 Prompt 💊`
 
 Given a dataset and a frontend framework, complete the three tasks while following the following constraints :
 
@@ -21,7 +21,7 @@ Given a dataset and a frontend framework, complete the three tasks while followi
 
 ---
 
-## 💊 How to run this project on your local server to this Project?
+## `💊 How to run this project on your local server to this Project?`
 
 ```shell
 git clone https://github.com/mcherry000/pulse2021.git
@@ -34,7 +34,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## 💊 Tech Stack:
+## `💊 Tech Stack:`
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
 
@@ -63,7 +63,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## 💊 Exercises
+## `💊 Exercises`
 
 - Each exercise has corresponding comments to explain the "why" and "how" of Algorithms employed to solve the challenge.
 
@@ -123,7 +123,7 @@ The funtion sortBy is yet to be wired. The accuracy of algorithm underneath is f
 
 ---
 
-## 👩‍ Created by
+## `👩‍ Developer Info`
 
 | Engineer        | LinkedIn Profile                                | GitHub Profile                |
 | --------------- | ----------------------------------------------- | ----------------------------- |
