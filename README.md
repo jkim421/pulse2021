@@ -81,19 +81,19 @@ For this exercise, employed React to render the influencers data. The page now c
 
 ---
 
-## 💊 On home screen you'll find a search bar and tabularised data underneath ...
+## `💊 On home screen you'll find a search bar and tabularised data underneath ...`
 
 ![Anonymous](public/screenOne.png)
 
 ---
 
-## 💊 You can search by word or a incomplete word. The App will display the closest match(es) to your search term all pre-sorted in a High to low priority fashion...
+## `💊 You can search by word or a incomplete word. The App will display the closest match(es) to your search term all pre-sorted in a High to low priority fashion...`
 
 ![Anonymous](public/screenThree.png)
 
 ---
 
-## 💊 You can also manually toggle the sort button to sort the columns of the table to your preference...
+## `💊 You can also manually toggle the sort button to sort the columns of the table to your preference...`
 
 ![Anonymous](public/screenFour.png)
 
