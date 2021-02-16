@@ -21,8 +21,7 @@ const Influencers = () => {
   const [search, setSearch] = useState("");
   const uniqueData = uniqueBy(db, "member");
   const [data, setData] = useState(uniqueData);
-  const [click, setClick] = useState(null);
-  const [location, setLocation] = useState(null);
+  // const [click, setClick] = useState(null);
   useEffect(() => {
     const filteredData = filterBy(uniqueData, search, [
       "indicationCategory",
@@ -35,10 +34,7 @@ const Influencers = () => {
   }, [search]);
 
   // if (click === "prior") {
-  //   // console.log("DaTAA->", data);
   //   const sortedData = SortBy(data);
-  //   // console.log("sortedData", sortedData);
-  //   console.log("prior", click);
   //   setData(sortedData);
   //   setClick(null);
   // }
@@ -46,7 +42,7 @@ const Influencers = () => {
   const columns = React.useMemo(
     () => [
       {
-        Header: "Member Info",
+        Header: "Member Information",
         columns: [
           {
             Header: "Member",

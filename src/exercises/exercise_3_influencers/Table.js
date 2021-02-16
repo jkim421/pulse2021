@@ -25,7 +25,7 @@ function Table({
                   style={{
                     padding: "1rem",
                     borderBottom: "solid 3px black",
-                    background: "green",
+                    background: "#2a9d8f",
                     color: "white",
                     fontWeight: "bold",
                   }}
