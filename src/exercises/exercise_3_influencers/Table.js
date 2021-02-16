@@ -1,15 +1,12 @@
 import React from "react";
-import styled from "styled-components";
 
 function Table({
   getTableProps,
   getTableBodyProps,
   headerGroups,
   rows,
-  page,
   prepareRow,
 }) {
-  const firstPageRows = rows.slice(0, 500);
   return (
     <>
       <table
@@ -27,7 +24,7 @@ function Table({
                   {...column.getHeaderProps(column.getSortByToggleProps())}
                   style={{
                     padding: "1rem",
-                    borderBottom: "solid 3px blue",
+                    borderBottom: "solid 3px black",
                     background: "green",
                     color: "white",
                     fontWeight: "bold",
@@ -47,7 +44,7 @@ function Table({
           ))}
         </thead>
         <tbody {...getTableBodyProps()}>
-          {firstPageRows.map((row, i) => {
+          {rows.map((row, i) => {
             prepareRow(row);
             return (
               <tr {...row.getRowProps()}>
